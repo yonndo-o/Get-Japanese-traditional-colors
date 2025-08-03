@@ -1,0 +1,1252 @@
+{
+  "NADESHIKO": {
+    "index": "001",
+    "rgb": "DC9FB4",
+    "cmyk": "002043003000"
+  },
+  "KOHBAI": {
+    "index": "002",
+    "rgb": "E16B8C",
+    "cmyk": "000073024000"
+  },
+  "SUOH": {
+    "index": "003",
+    "rgb": "8E354A",
+    "cmyk": "051093058010"
+  },
+  "TAIKOH": {
+    "index": "004",
+    "rgb": "F8C3CD",
+    "cmyk": "000031009000"
+  },
+  "IKKONZOME": {
+    "index": "005",
+    "rgb": "F4A7B9",
+    "cmyk": "000048015000"
+  },
+  "KUWAZOME": {
+    "index": "006",
+    "rgb": "64363C",
+    "cmyk": "069086065035"
+  },
+  "MOMO": {
+    "index": "007",
+    "rgb": "F596AA",
+    "cmyk": "000055019000"
+  },
+  "ICHIGO": {
+    "index": "008",
+    "rgb": "B5495B",
+    "cmyk": "002070038030"
+  },
+  "USUBENI": {
+    "index": "009",
+    "rgb": "E87A90",
+    "cmyk": "000064026000"
+  },
+  "IMAYOH": {
+    "index": "010",
+    "rgb": "D05A6E",
+    "cmyk": "000075038020"
+  },
+  "NAKABENI": {
+    "index": "011",
+    "rgb": "DB4D6D",
+    "cmyk": "005083040000"
+  },
+  "SAKURA": {
+    "index": "012",
+    "rgb": "FEDFE1",
+    "cmyk": "000017006000"
+  },
+  "UMENEZUMI": {
+    "index": "013",
+    "rgb": "9E7A7A",
+    "cmyk": "048059049000"
+  },
+  "KARAKURENAI": {
+    "index": "014",
+    "rgb": "D0104C",
+    "cmyk": "015098061000"
+  },
+  "ENJI": {
+    "index": "015",
+    "rgb": "9F353A",
+    "cmyk": "042093068006"
+  },
+  "KURENAI": {
+    "index": "016",
+    "rgb": "CB1B45",
+    "cmyk": "000100065010"
+  },
+  "TOKI": {
+    "index": "017",
+    "rgb": "EEA9A9",
+    "cmyk": "002045027000"
+  },
+  "CYOHSYUN": {
+    "index": "018",
+    "rgb": "BF6766",
+    "cmyk": "025070053000"
+  },
+  "KOKIAKE": {
+    "index": "019",
+    "rgb": "86473F",
+    "cmyk": "054075065014"
+  },
+  "SAKURANEZUMI": {
+    "index": "020",
+    "rgb": "B19693",
+    "cmyk": "034046039000"
+  },
+  "JINZAMOMI": {
+    "index": "021",
+    "rgb": "EB7A77",
+    "cmyk": "000065046000"
+  },
+  "AZUKI": {
+    "index": "022",
+    "rgb": "954A45",
+    "cmyk": "048078066010"
+  },
+  "SUOHKOH": {
+    "index": "023",
+    "rgb": "A96360",
+    "cmyk": "042070058001"
+  },
+  "AKABENI": {
+    "index": "024",
+    "rgb": "CB4042",
+    "cmyk": "015085068000"
+  },
+  "SHINSYU": {
+    "index": "025",
+    "rgb": "AB3B3A",
+    "cmyk": "035085070002"
+  },
+  "HAIZAKURA": {
+    "index": "026",
+    "rgb": "D7C4BB",
+    "cmyk": "002012012010"
+  },
+  "KURIUME": {
+    "index": "027",
+    "rgb": "904840",
+    "cmyk": "050078068013"
+  },
+  "EBICHA": {
+    "index": "028",
+    "rgb": "734338",
+    "cmyk": "055077068027"
+  },
+  "GINSYU": {
+    "index": "029",
+    "rgb": "C73E3A",
+    "cmyk": "016086070000"
+  },
+  "KUROTOBI": {
+    "index": "030",
+    "rgb": "554236",
+    "cmyk": "071074069041"
+  },
+  "BENITOBI": {
+    "index": "031",
+    "rgb": "994639",
+    "cmyk": "045082072011"
+  },
+  "AKEBONO": {
+    "index": "032",
+    "rgb": "F19483",
+    "cmyk": "000057047000"
+  },
+  "BENIKABA": {
+    "index": "033",
+    "rgb": "B54434",
+    "cmyk": "035087079001"
+  },
+  "MIZUGAKI": {
+    "index": "034",
+    "rgb": "B9887D",
+    "cmyk": "030054046000"
+  },
+  "SANGOSYU": {
+    "index": "035",
+    "rgb": "F17C67",
+    "cmyk": "000065058000"
+  },
+  "BENIHIWADA": {
+    "index": "036",
+    "rgb": "884C3A",
+    "cmyk": "052074070018"
+  },
+  "SYOJYOHI": {
+    "index": "037",
+    "rgb": "E83015",
+    "cmyk": "000089079000"
+  },
+  "ENTAN": {
+    "index": "038",
+    "rgb": "D75455",
+    "cmyk": "000072063007"
+  },
+  "SHIKANCHA": {
+    "index": "039",
+    "rgb": "B55D4C",
+    "cmyk": "037072068000"
+  },
+  "HIWADA": {
+    "index": "040",
+    "rgb": "854836",
+    "cmyk": "049073070018"
+  },
+  "KAKISHIBU": {
+    "index": "041",
+    "rgb": "A35E47",
+    "cmyk": "043072071004"
+  },
+  "AKE": {
+    "index": "042",
+    "rgb": "CC543A",
+    "cmyk": "017079074000"
+  },
+  "TOBI": {
+    "index": "043",
+    "rgb": "724832",
+    "cmyk": "058073070026"
+  },
+  "BENIHI": {
+    "index": "044",
+    "rgb": "F75C2F",
+    "cmyk": "000075074000"
+  },
+  "KURIKAWACHA": {
+    "index": "045",
+    "rgb": "6A4028",
+    "cmyk": "058074072030"
+  },
+  "BENGARA": {
+    "index": "046",
+    "rgb": "9A5034",
+    "cmyk": "044074075012"
+  },
+  "TERIGAKI": {
+    "index": "047",
+    "rgb": "C46243",
+    "cmyk": "024072072000"
+  },
+  "EDOCHA": {
+    "index": "048",
+    "rgb": "AF5F3C",
+    "cmyk": "038070071003"
+  },
+  "ARAISYU": {
+    "index": "049",
+    "rgb": "FB966E",
+    "cmyk": "000054056000"
+  },
+  "MOMOSHIOCHA": {
+    "index": "050",
+    "rgb": "724938",
+    "cmyk": "061070068025"
+  },
+  "KARACHA": {
+    "index": "051",
+    "rgb": "B47157",
+    "cmyk": "038064065000"
+  },
+  "TOKIGARACHA": {
+    "index": "052",
+    "rgb": "DB8E71",
+    "cmyk": "010055057000"
+  },
+  "OHNI": {
+    "index": "053",
+    "rgb": "F05E1C",
+    "cmyk": "000072090000"
+  },
+  "SOHI": {
+    "index": "054",
+    "rgb": "ED784A",
+    "cmyk": "000065073000"
+  },
+  "ENSYUCHA": {
+    "index": "055",
+    "rgb": "CA7853",
+    "cmyk": "021064067000"
+  },
+  "KABACHA": {
+    "index": "056",
+    "rgb": "B35C37",
+    "cmyk": "036072076002"
+  },
+  "KOGECHA": {
+    "index": "057",
+    "rgb": "563F2E",
+    "cmyk": "068073071040"
+  },
+  "AKAKOH": {
+    "index": "058",
+    "rgb": "E3916E",
+    "cmyk": "005055060000"
+  },
+  "SUZUMECHA": {
+    "index": "059",
+    "rgb": "8F5A3C",
+    "cmyk": "052069073015"
+  },
+  "SHISHI": {
+    "index": "060",
+    "rgb": "F0A986",
+    "cmyk": "000047050000"
+  },
+  "SODENKARACHA": {
+    "index": "061",
+    "rgb": "A0674B",
+    "cmyk": "048066070006"
+  },
+  "KABA": {
+    "index": "062",
+    "rgb": "C1693C",
+    "cmyk": "026070078000"
+  },
+  "KOKIKUCHINASHI": {
+    "index": "063",
+    "rgb": "FB9966",
+    "cmyk": "000053065000"
+  },
+  "KURUMI": {
+    "index": "064",
+    "rgb": "947A6D",
+    "cmyk": "051056057001"
+  },
+  "TAISYA": {
+    "index": "065",
+    "rgb": "A36336",
+    "cmyk": "038067082003"
+  },
+  "ARAIGAKI": {
+    "index": "066",
+    "rgb": "E79460",
+    "cmyk": "000053067000"
+  },
+  "KOHROZEN": {
+    "index": "067",
+    "rgb": "7D532C",
+    "cmyk": "055068078023"
+  },
+  "AKAKUCHIBA": {
+    "index": "068",
+    "rgb": "C78550",
+    "cmyk": "005052070014"
+  },
+  "TONOCHA": {
+    "index": "069",
+    "rgb": "985F2A",
+    "cmyk": "048066079007"
+  },
+  "AKASHIROTSURUBAMI": {
+    "index": "070",
+    "rgb": "E1A679",
+    "cmyk": "006042055000"
+  },
+  "SENCHA": {
+    "index": "071",
+    "rgb": "855B32",
+    "cmyk": "055066075014"
+  },
+  "KANZO": {
+    "index": "072",
+    "rgb": "FC9F4D",
+    "cmyk": "000049072000"
+  },
+  "SHAREGAKI": {
+    "index": "073",
+    "rgb": "FFBA84",
+    "cmyk": "000036053000"
+  },
+  "BENIUKON": {
+    "index": "074",
+    "rgb": "E98B2A",
+    "cmyk": "000052080000"
+  },
+  "UMEZOME": {
+    "index": "075",
+    "rgb": "E9A368",
+    "cmyk": "003045062000"
+  },
+  "BIWACHA": {
+    "index": "076",
+    "rgb": "B17844",
+    "cmyk": "035058075000"
+  },
+  "CHOJICHA": {
+    "index": "077",
+    "rgb": "96632E",
+    "cmyk": "050061076009"
+  },
+  "KENPOHZOME": {
+    "index": "078",
+    "rgb": "43341B",
+    "cmyk": "076071073047"
+  },
+  "KOHAKU": {
+    "index": "079",
+    "rgb": "CA7A2C",
+    "cmyk": "020058085000"
+  },
+  "USUGAKI": {
+    "index": "080",
+    "rgb": "ECB88A",
+    "cmyk": "000034052000"
+  },
+  "KYARA": {
+    "index": "081",
+    "rgb": "78552B",
+    "cmyk": "058062072016"
+  },
+  "CHOJIZOME": {
+    "index": "082",
+    "rgb": "B07736",
+    "cmyk": "036057079000"
+  },
+  "FUSHIZOME": {
+    "index": "083",
+    "rgb": "967249",
+    "cmyk": "050056071005"
+  },
+  "KUCHIBA": {
+    "index": "084",
+    "rgb": "E2943B",
+    "cmyk": "007049080000"
+  },
+  "KINCHA": {
+    "index": "085",
+    "rgb": "C7802D",
+    "cmyk": "020056089000"
+  },
+  "KITSUNE": {
+    "index": "086",
+    "rgb": "9B6E23",
+    "cmyk": "046057080004"
+  },
+  "SUSUTAKE": {
+    "index": "087",
+    "rgb": "6E552F",
+    "cmyk": "062063073021"
+  },
+  "USUKOH": {
+    "index": "088",
+    "rgb": "EBB471",
+    "cmyk": "000034060000"
+  },
+  "TONOKO": {
+    "index": "089",
+    "rgb": "D7B98E",
+    "cmyk": "005020038015"
+  },
+  "GINSUSUTAKE": {
+    "index": "090",
+    "rgb": "82663A",
+    "cmyk": "054058076010"
+  },
+  "OHDO": {
+    "index": "091",
+    "rgb": "B68E55",
+    "cmyk": "031045066000"
+  },
+  "SHIRACHA": {
+    "index": "092",
+    "rgb": "BC9F77",
+    "cmyk": "032040057000"
+  },
+  "KOBICHA": {
+    "index": "093",
+    "rgb": "876633",
+    "cmyk": "058059078014"
+  },
+  "KIGARACHA": {
+    "index": "094",
+    "rgb": "C18A26",
+    "cmyk": "028048083000"
+  },
+  "YAMABUKI": {
+    "index": "095",
+    "rgb": "FFB11B",
+    "cmyk": "000037087000"
+  },
+  "YAMABUKICHA": {
+    "index": "096",
+    "rgb": "D19826",
+    "cmyk": "017044089000"
+  },
+  "HAJIZOME": {
+    "index": "097",
+    "rgb": "DDA52D",
+    "cmyk": "008040083000"
+  },
+  "KUWACHA": {
+    "index": "098",
+    "rgb": "C99833",
+    "cmyk": "025044083000"
+  },
+  "TAMAGO": {
+    "index": "099",
+    "rgb": "F9BF45",
+    "cmyk": "000029074000"
+  },
+  "SHIROTSURUBAMI": {
+    "index": "100",
+    "rgb": "DCB879",
+    "cmyk": "016030060000"
+  },
+  "KITSURUBAMI": {
+    "index": "101",
+    "rgb": "BA9132",
+    "cmyk": "031044077000"
+  },
+  "TAMAMOROKOSHI": {
+    "index": "102",
+    "rgb": "E8B647",
+    "cmyk": "004029071000"
+  },
+  "HANABA": {
+    "index": "103",
+    "rgb": "F7C242",
+    "cmyk": "000025072000"
+  },
+  "NAMAKABE": {
+    "index": "104",
+    "rgb": "7D6C46",
+    "cmyk": "058056070008"
+  },
+  "TORINOKO": {
+    "index": "105",
+    "rgb": "DAC9A6",
+    "cmyk": "014020039000"
+  },
+  "USUKI": {
+    "index": "106",
+    "rgb": "FAD689",
+    "cmyk": "000017053000"
+  },
+  "KIKUCHIBA": {
+    "index": "107",
+    "rgb": "D9AB42",
+    "cmyk": "014033075000"
+  },
+  "KUCHINASHI": {
+    "index": "108",
+    "rgb": "F6C555",
+    "cmyk": "000025070000"
+  },
+  "TOHOH": {
+    "index": "109",
+    "rgb": "FFC408",
+    "cmyk": "000025086000"
+  },
+  "UKON": {
+    "index": "110",
+    "rgb": "EFBB24",
+    "cmyk": "003029088000"
+  },
+  "KARASHI": {
+    "index": "111",
+    "rgb": "CAAD5F",
+    "cmyk": "000016070027"
+  },
+  "HIGOSUSUTAKE": {
+    "index": "112",
+    "rgb": "8D742A",
+    "cmyk": "055053082007"
+  },
+  "RIKYUSHIRACHA": {
+    "index": "113",
+    "rgb": "B4A582",
+    "cmyk": "036033054000"
+  },
+  "AKU": {
+    "index": "114",
+    "rgb": "877F6C",
+    "cmyk": "058051060001"
+  },
+  "RIKYUCHA": {
+    "index": "115",
+    "rgb": "897D55",
+    "cmyk": "057050070003"
+  },
+  "ROKOHCHA": {
+    "index": "116",
+    "rgb": "74673E",
+    "cmyk": "064057073010"
+  },
+  "NATANEYU": {
+    "index": "117",
+    "rgb": "A28C37",
+    "cmyk": "046042084000"
+  },
+  "UGUISUCHA": {
+    "index": "118",
+    "rgb": "6C6024",
+    "cmyk": "064056078016"
+  },
+  "KIMIRUCHA": {
+    "index": "119",
+    "rgb": "867835",
+    "cmyk": "057048078006"
+  },
+  "MIRUCHA": {
+    "index": "120",
+    "rgb": "62592C",
+    "cmyk": "068059075022"
+  },
+  "KARIYASU": {
+    "index": "121",
+    "rgb": "E9CD4C",
+    "cmyk": "007015074000"
+  },
+  "NANOHANA": {
+    "index": "122",
+    "rgb": "F7D94C",
+    "cmyk": "002011075000"
+  },
+  "KIHADA": {
+    "index": "123",
+    "rgb": "FBE251",
+    "cmyk": "000005073000"
+  },
+  "MUSHIKURI": {
+    "index": "124",
+    "rgb": "D9CD90",
+    "cmyk": "016015052000"
+  },
+  "AOKUCHIBA": {
+    "index": "125",
+    "rgb": "ADA142",
+    "cmyk": "038031076000"
+  },
+  "OMINAESHI": {
+    "index": "126",
+    "rgb": "DDD23B",
+    "cmyk": "016009082000"
+  },
+  "HIWACHA": {
+    "index": "127",
+    "rgb": "A5A051",
+    "cmyk": "045033076000"
+  },
+  "HIWA": {
+    "index": "128",
+    "rgb": "BEC23F",
+    "cmyk": "032015085000"
+  },
+  "UGUISU": {
+    "index": "129",
+    "rgb": "6C6A2D",
+    "cmyk": "067054084014"
+  },
+  "YANAGICHA": {
+    "index": "130",
+    "rgb": "939650",
+    "cmyk": "052037073000"
+  },
+  "KOKE": {
+    "index": "131",
+    "rgb": "838A2D",
+    "cmyk": "062041083002"
+  },
+  "KIKUJIN": {
+    "index": "132",
+    "rgb": "B1B479",
+    "cmyk": "037023063000"
+  },
+  "RIKANCHA": {
+    "index": "133",
+    "rgb": "616138",
+    "cmyk": "072058073019"
+  },
+  "AIKOBICHA": {
+    "index": "134",
+    "rgb": "4B4E2A",
+    "cmyk": "076061074030"
+  },
+  "MIRU": {
+    "index": "135",
+    "rgb": "5B622E",
+    "cmyk": "072056078020"
+  },
+  "SENSAICHA": {
+    "index": "136",
+    "rgb": "4D5139",
+    "cmyk": "077061070030"
+  },
+  "BAIKOCHA": {
+    "index": "137",
+    "rgb": "89916B",
+    "cmyk": "057038063000"
+  },
+  "HIWAMOEGI": {
+    "index": "138",
+    "rgb": "90B44B",
+    "cmyk": "056013077000"
+  },
+  "YANAGIZOME": {
+    "index": "139",
+    "rgb": "91AD70",
+    "cmyk": "056024065000"
+  },
+  "URAYANAGI": {
+    "index": "140",
+    "rgb": "B5CAA0",
+    "cmyk": "036010045000"
+  },
+  "IWAICHA": {
+    "index": "141",
+    "rgb": "646A58",
+    "cmyk": "069052063007"
+  },
+  "MOEGI": {
+    "index": "142",
+    "rgb": "7BA23F",
+    "cmyk": "070023086000"
+  },
+  "NAE": {
+    "index": "143",
+    "rgb": "86C166",
+    "cmyk": "057001072000"
+  },
+  "YANAGISUSUTAKE": {
+    "index": "144",
+    "rgb": "4A593D",
+    "cmyk": "076057070017"
+  },
+  "MATSUBA": {
+    "index": "145",
+    "rgb": "42602D",
+    "cmyk": "080055079020"
+  },
+  "AONI": {
+    "index": "146",
+    "rgb": "516E41",
+    "cmyk": "076051075012"
+  },
+  "USUAO": {
+    "index": "147",
+    "rgb": "91B493",
+    "cmyk": "057019052000"
+  },
+  "YANAGINEZUMI": {
+    "index": "148",
+    "rgb": "808F7C",
+    "cmyk": "061041053000"
+  },
+  "TOKIWA": {
+    "index": "149",
+    "rgb": "1B813E",
+    "cmyk": "082000078040"
+  },
+  "WAKATAKE": {
+    "index": "150",
+    "rgb": "5DAC81",
+    "cmyk": "068013059000"
+  },
+  "CHITOSEMIDORI": {
+    "index": "151",
+    "rgb": "36563C",
+    "cmyk": "083055069022"
+  },
+  "MIDORI": {
+    "index": "152",
+    "rgb": "227D51",
+    "cmyk": "086036070000"
+  },
+  "BYAKUROKU": {
+    "index": "153",
+    "rgb": "A8D8B9",
+    "cmyk": "044000037000"
+  },
+  "OITAKE": {
+    "index": "154",
+    "rgb": "6A8372",
+    "cmyk": "071046060002"
+  },
+  "TOKUSA": {
+    "index": "155",
+    "rgb": "2D6D4B",
+    "cmyk": "086046070008"
+  },
+  "ONANDOCHA": {
+    "index": "156",
+    "rgb": "465D4C",
+    "cmyk": "081060068022"
+  },
+  "ROKUSYOH": {
+    "index": "157",
+    "rgb": "24936E",
+    "cmyk": "083023063000"
+  },
+  "SABISEIJI": {
+    "index": "158",
+    "rgb": "86A697",
+    "cmyk": "058030045000"
+  },
+  "AOTAKE": {
+    "index": "159",
+    "rgb": "00896C",
+    "cmyk": "092028067000"
+  },
+  "VELUDO": {
+    "index": "160",
+    "rgb": "096148",
+    "cmyk": "093054071020"
+  },
+  "MUSHIAO": {
+    "index": "161",
+    "rgb": "20604F",
+    "cmyk": "089055067017"
+  },
+  "AIMIRUCHA": {
+    "index": "162",
+    "rgb": "0F4C3A",
+    "cmyk": "089060067030"
+  },
+  "TONOCHA2": {
+    "index": "163",
+    "rgb": "4F726C",
+    "cmyk": "077050057004"
+  },
+  "AOMIDORI": {
+    "index": "164",
+    "rgb": "00AA90",
+    "cmyk": "088000053000"
+  },
+  "SEIJI": {
+    "index": "165",
+    "rgb": "69B0AC",
+    "cmyk": "061014034000"
+  },
+  "TETSU": {
+    "index": "166",
+    "rgb": "26453D",
+    "cmyk": "090063066030"
+  },
+  "MIZUASAGI": {
+    "index": "167",
+    "rgb": "66BAB7",
+    "cmyk": "068010033000"
+  },
+  "SEIHEKI": {
+    "index": "168",
+    "rgb": "268785",
+    "cmyk": "085035050000"
+  },
+  "SABITETSUONANDO": {
+    "index": "169",
+    "rgb": "405B55",
+    "cmyk": "083059060013"
+  },
+  "KORAINANDO": {
+    "index": "170",
+    "rgb": "305A56",
+    "cmyk": "088058061015"
+  },
+  "BYAKUGUN": {
+    "index": "171",
+    "rgb": "78C2C4",
+    "cmyk": "052000020000"
+  },
+  "OMESHICHA": {
+    "index": "172",
+    "rgb": "376B6D",
+    "cmyk": "087054054005"
+  },
+  "KAMENOZOKI": {
+    "index": "173",
+    "rgb": "A5DEE4",
+    "cmyk": "042000011000"
+  },
+  "FUKAGAWANEZUMI": {
+    "index": "174",
+    "rgb": "77969A",
+    "cmyk": "063038040000"
+  },
+  "SABIASAGI": {
+    "index": "175",
+    "rgb": "6699A1",
+    "cmyk": "066030034000"
+  },
+  "MIZU": {
+    "index": "176",
+    "rgb": "81C7D4",
+    "cmyk": "055006017000"
+  },
+  "ASAGI": {
+    "index": "177",
+    "rgb": "33A6B8",
+    "cmyk": "082018027000"
+  },
+  "ONANDO": {
+    "index": "178",
+    "rgb": "0C4842",
+    "cmyk": "092065062025"
+  },
+  "AI": {
+    "index": "179",
+    "rgb": "0D5661",
+    "cmyk": "095063056017"
+  },
+  "SHINBASHI": {
+    "index": "180",
+    "rgb": "0089A7",
+    "cmyk": "095031030000"
+  },
+  "SABIONANDO": {
+    "index": "181",
+    "rgb": "336774",
+    "cmyk": "087056052006"
+  },
+  "TETSUONANDO": {
+    "index": "182",
+    "rgb": "255359",
+    "cmyk": "090063059021"
+  },
+  "HANAASAGI": {
+    "index": "183",
+    "rgb": "1E88A8",
+    "cmyk": "090032023000"
+  },
+  "AINEZUMI": {
+    "index": "184",
+    "rgb": "566C73",
+    "cmyk": "078057052007"
+  },
+  "MASUHANA": {
+    "index": "185",
+    "rgb": "577C8A",
+    "cmyk": "078048042000"
+  },
+  "SORA": {
+    "index": "186",
+    "rgb": "58B2DC",
+    "cmyk": "072013007000"
+  },
+  "NOSHIMEHANA": {
+    "index": "187",
+    "rgb": "2B5F75",
+    "cmyk": "092060047004"
+  },
+  "CHIGUSA": {
+    "index": "188",
+    "rgb": "3A8FB7",
+    "cmyk": "083031017000"
+  },
+  "OMESHIONANDO": {
+    "index": "189",
+    "rgb": "2E5C6E",
+    "cmyk": "090063051007"
+  },
+  "HANADA": {
+    "index": "190",
+    "rgb": "006284",
+    "cmyk": "100060041002"
+  },
+  "WASURENAGUSA": {
+    "index": "191",
+    "rgb": "7DB9DE",
+    "cmyk": "052010000000"
+  },
+  "GUNJYO": {
+    "index": "192",
+    "rgb": "51A8DD",
+    "cmyk": "067021000000"
+  },
+  "TSUYUKUSA": {
+    "index": "193",
+    "rgb": "2EA9DF",
+    "cmyk": "073020000000"
+  },
+  "KUROTSURUBAMI": {
+    "index": "194",
+    "rgb": "0B1013",
+    "cmyk": "092078064048"
+  },
+  "KON": {
+    "index": "195",
+    "rgb": "0F2540",
+    "cmyk": "100085050024"
+  },
+  "KACHI": {
+    "index": "196",
+    "rgb": "08192D",
+    "cmyk": "100086060045"
+  },
+  "RURI": {
+    "index": "197",
+    "rgb": "005CAF",
+    "cmyk": "097065000000"
+  },
+  "RURIKON": {
+    "index": "198",
+    "rgb": "0B346E",
+    "cmyk": "100085039004"
+  },
+  "BENIMIDORI": {
+    "index": "199",
+    "rgb": "7B90D2",
+    "cmyk": "064044000000"
+  },
+  "FUJINEZUMI": {
+    "index": "200",
+    "rgb": "6E75A4",
+    "cmyk": "069056017000"
+  },
+  "TETSUKON": {
+    "index": "201",
+    "rgb": "261E47",
+    "cmyk": "080065000077"
+  },
+  "KONJYO": {
+    "index": "202",
+    "rgb": "113285",
+    "cmyk": "100085015000"
+  },
+  "BENIKAKEHANA": {
+    "index": "203",
+    "rgb": "4E4F97",
+    "cmyk": "082070014000"
+  },
+  "KONKIKYO": {
+    "index": "204",
+    "rgb": "211E55",
+    "cmyk": "100090042012"
+  },
+  "FUJI": {
+    "index": "205",
+    "rgb": "8B81C3",
+    "cmyk": "058052000000"
+  },
+  "FUTAAI": {
+    "index": "206",
+    "rgb": "70649A",
+    "cmyk": "072067021000"
+  },
+  "OUCHI": {
+    "index": "207",
+    "rgb": "9B90C2",
+    "cmyk": "042042000000"
+  },
+  "FUJIMURASAKI": {
+    "index": "208",
+    "rgb": "8A6BBE",
+    "cmyk": "058060000000"
+  },
+  "KIKYO": {
+    "index": "209",
+    "rgb": "6A4C9C",
+    "cmyk": "075075010000"
+  },
+  "SHION": {
+    "index": "210",
+    "rgb": "8F77B5",
+    "cmyk": "055058001000"
+  },
+  "MESSHI": {
+    "index": "211",
+    "rgb": "533D5B",
+    "cmyk": "082080048015"
+  },
+  "USU": {
+    "index": "212",
+    "rgb": "B28FCE",
+    "cmyk": "043051000000"
+  },
+  "HASHITA": {
+    "index": "213",
+    "rgb": "986DB2",
+    "cmyk": "055063000000"
+  },
+  "EDOMURASAKI": {
+    "index": "214",
+    "rgb": "77428D",
+    "cmyk": "060074000014"
+  },
+  "SHIKON": {
+    "index": "215",
+    "rgb": "3C2F41",
+    "cmyk": "088084060045"
+  },
+  "KOKIMURASAKI": {
+    "index": "216",
+    "rgb": "4A225D",
+    "cmyk": "090093043016"
+  },
+  "SUMIRE": {
+    "index": "217",
+    "rgb": "66327C",
+    "cmyk": "074083022000"
+  },
+  "MURASAKI": {
+    "index": "218",
+    "rgb": "592C63",
+    "cmyk": "081087040007"
+  },
+  "AYAME": {
+    "index": "219",
+    "rgb": "6F3381",
+    "cmyk": "071087014000"
+  },
+  "FUJISUSUTAKE": {
+    "index": "220",
+    "rgb": "574C57",
+    "cmyk": "075070057025"
+  },
+  "BENIFUJI": {
+    "index": "221",
+    "rgb": "B481BB",
+    "cmyk": "038060000000"
+  },
+  "KUROBENI": {
+    "index": "222",
+    "rgb": "3F2B36",
+    "cmyk": "086085064050"
+  },
+  "NASUKON": {
+    "index": "223",
+    "rgb": "572A3F",
+    "cmyk": "040073010073"
+  },
+  "BUDOHNEZUMI": {
+    "index": "224",
+    "rgb": "5E3D50",
+    "cmyk": "073077054017"
+  },
+  "HATOBANEZUMI": {
+    "index": "225",
+    "rgb": "72636E",
+    "cmyk": "068064051006"
+  },
+  "KAKITSUBATA": {
+    "index": "226",
+    "rgb": "622954",
+    "cmyk": "077092048021"
+  },
+  "EBIZOME": {
+    "index": "227",
+    "rgb": "6D2E5B",
+    "cmyk": "071089048012"
+  },
+  "BOTAN": {
+    "index": "228",
+    "rgb": "C1328E",
+    "cmyk": "025091008000"
+  },
+  "UMEMURASAKI": {
+    "index": "229",
+    "rgb": "A8497A",
+    "cmyk": "045080037000"
+  },
+  "NISEMURASAKI": {
+    "index": "230",
+    "rgb": "562E37",
+    "cmyk": "075084062042"
+  },
+  "TSUTSUJI": {
+    "index": "231",
+    "rgb": "E03C8A",
+    "cmyk": "000080003000"
+  },
+  "MURASAKITOBI": {
+    "index": "232",
+    "rgb": "60373E",
+    "cmyk": "070078061030"
+  },
+  "SHIRONERI": {
+    "index": "233",
+    "rgb": "FCFAF2",
+    "cmyk": "000003011000"
+  },
+  "GOFUN": {
+    "index": "234",
+    "rgb": "FFFFFB",
+    "cmyk": "000000002000"
+  },
+  "SHIRONEZUMI": {
+    "index": "235",
+    "rgb": "BDC0BA",
+    "cmyk": "031023028000"
+  },
+  "GINNEZUMI": {
+    "index": "236",
+    "rgb": "91989F",
+    "cmyk": "052039036000"
+  },
+  "NAMARI": {
+    "index": "237",
+    "rgb": "787878",
+    "cmyk": "008000000073"
+  },
+  "HAI": {
+    "index": "238",
+    "rgb": "828282",
+    "cmyk": "000000000070"
+  },
+  "SUNEZUMI": {
+    "index": "239",
+    "rgb": "787D7B",
+    "cmyk": "065053053000"
+  },
+  "RIKYUNEZUMI": {
+    "index": "240",
+    "rgb": "707C74",
+    "cmyk": "066050054001"
+  },
+  "NIBI": {
+    "index": "241",
+    "rgb": "656765",
+    "cmyk": "005000000080"
+  },
+  "AONIBI": {
+    "index": "242",
+    "rgb": "535953",
+    "cmyk": "078063062020"
+  },
+  "DOBUNEZUMI": {
+    "index": "243",
+    "rgb": "4F4F48",
+    "cmyk": "078065065030"
+  },
+  "BENIKESHINEZUMI": {
+    "index": "244",
+    "rgb": "52433D",
+    "cmyk": "073069063030"
+  },
+  "AISUMICHA": {
+    "index": "245",
+    "rgb": "373C38",
+    "cmyk": "086072068047"
+  },
+  "BINROJIZOME": {
+    "index": "246",
+    "rgb": "3A3226",
+    "cmyk": "079072072050"
+  },
+  "KESHIZUMI": {
+    "index": "247",
+    "rgb": "434343",
+    "cmyk": "000000000088"
+  },
+  "SUMI": {
+    "index": "248",
+    "rgb": "1C1C1C",
+    "cmyk": "092078073066"
+  },
+  "KURO": {
+    "index": "249",
+    "rgb": "080808",
+    "cmyk": "091084074071"
+  },
+  "RO": {
+    "index": "250",
+    "rgb": "0C0C0C",
+    "cmyk": "000000000100"
+  }
+}
